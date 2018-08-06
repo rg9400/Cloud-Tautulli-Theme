@@ -272,6 +272,7 @@ fieldset[disabled] .btn-dark.active{
 .pagination > li > a, .pagination > li > span {
 	background-color: rgba(255,255,255,.08);
 	color: #d7d7d7;
+	border:none;
 }
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
 	background-color: rgba(255,255,255,.25);
