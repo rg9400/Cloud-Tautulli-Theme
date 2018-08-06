@@ -1,0 +1,377 @@
+body{
+	background-image: url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png"), url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-light.png");
+	background-repeat: repeat, no-repeat; 
+	background-attachment: fixed, fixed;
+	background-position: center center, center center;
+	background-size: auto, cover;
+	-webkit-background-size: auto, cover;
+	-moz-background-size: auto, cover;
+	-o-background-size: auto, cover;
+	background-color: rgba(0,0,0,.0);
+	color:#d7d7d7;
+}
+a:focus, a:hover {
+	color: #f9be03;
+}
+a {
+	color: #d7d7d7;
+}
+a.no-highlight {
+	color: #d7d7d7;
+}
+a.no-highlight:focus, a.no-highlight:hover {
+	color: #f9be03;
+}
+a.active {
+    background-color: rgba(255,255,255,.08);
+}
+.text-muted{
+	color: #d7d7d7;
+}
+.small-muted{
+	color: #d7d7d7;
+}
+.ajaxMsg{
+	background-color: rgba(0,0,0,.7);
+}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+	color: #d7d7d7;
+}
+.login-container .remember-group,.login-container .form-group label {
+	color: #d7d7d7;
+}
+#plexpy-notifiers-table .friendly_name, #notifier-config-modal span.notifier_id, #plexpy-newsletters-table .friendly_name, #newsletter-config-modal span.newsletter_id, #plexpy-mobile-devices-table .friendly_name, #mobile-device-config-modal span.notifier_id {
+	color: #d7d7d7;
+}
+.dashboard-activity-metadata-user a,.dashboard-stats-info-title .dashboard-stats-stats-units , .dashboard-stats-info-item .sub-list, .dashboard-recent-media-metacontainer h3.text-muted, .dashboard-recent-media-metacontainer h3.text-muted a {
+	color: #d7d7d7;
+}
+.dashboard-activity-progress-bar {
+	background-color: rgba(0,0,0,.15);
+}
+.dashboard-activity-progress .buffer-bar {
+	background-color: rgba(0,0,0,.3);
+}
+.help-block{
+	color: #aaa;
+}
+.navbar {
+	background-color: rgba(0,0,0,.4);
+	box-shadow: none;
+	border: none;
+}
+.nav >li>a {
+	color: #ebebeb;
+}
+.nav-settings > li, .nav-settings > li > a{
+	color: #ebebeb;
+	background-color: transparent;
+	border:none;
+}
+.nav-settings > .active > a, .nav-settings > .active > a:hover, .nav-settings > .active > a:focus {
+	background-color: rgba(255,255,255,.08);
+}
+.nav-settings>li>a:focus, .nav-settings>li>a:hover {
+	color: white;
+	background-color: rgba(255,255,255,.08);
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+	background-color: rgba(255,255,255,.25) !important;
+}
+.navbar-toggle{
+	background: transparent;
+}
+.navbar-toggle:hover, .navbar-toggle:focus {
+	background-color: rgba(255,255,255,.08);
+}
+.nav>li>a:focus, .nav>li>a:hover {
+	color: white;
+	background-color: rgba(255,255,255,.08);
+}
+.nav > li.active > a,  .nav > li.active > a:hover, .nav > li.active > a:focus, .navbar-nav>.active>a, .navbar-nav>.active>a:focus, .navbar-nav>.active>a:hover{
+	background-color: rgba(255,255,255,.08);
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+	background-color: rgba(255,255,255,.08);
+}
+.dropdown-menu {
+	background-color: rgba(0,0,0,.85);
+}
+.dropdown-menu .divider, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .input-group-addon {
+ 	background-color: rgba(255,255,255,.08);
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+	background-color: rgba(255,255,255,.15);
+}
+.dropdown-menu .divider, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .input-group-addon{
+	background-color: rgba(255,255,255,.08);
+}
+ul.ColVis_collection {
+	background-color: rgba(0,0,0,.85);
+}
+#stats-background-top_users.dashboard-stats-background, #stats-background-most_concurrent.dashboard-stats-background{
+	background-color: rgba(0,0,0,.3);
+}
+@media (min-width: 768px) { 
+	.dashboard-activity-container, .dashboard-stats-instance, .dashboard-recent-media-poster, .item-children-poster{
+		-webkit-box-shadow: 3px 5px 15px black;
+		box-shadow:3px 5px 15px black;
+	}
+}
+.dashboard-activity-container, .dashboard-stats-instance, .dashboard-recent-media-poster, .item-children-poster{
+	-webkit-box-shadow: 3px 3px 10px black;
+	box-shadow:3px 3px 10px black;
+}
+.card-back-full{
+	background-color:transparent;
+}
+.card{
+	background-color: transparent;
+	border-top: 1px solid rgba(120,130,140,.13);
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(120, 130, 140, .13);
+}
+.card-sortable{	
+	border-bottom: none;
+}
+.card-handle{
+	background-color: transparent;
+	color: white;
+}
+.summary-container .table-card-header, .summary-container .table-card-back{
+	background: none;
+	background-color: transparent;
+}
+.summary-navbar-list .breadcrumb>.breadcrumb-arrow, .summary-navbar-list .breadcrumb a, .summary-content-title h3 {
+	color: #d7d7d7;
+}
+.summary-navbar{
+	background-color:transparent;
+}
+.summary-content-wrapper{
+    background: rgba(0,0,0,.6);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,.6), rgba(10,10,10,.6));
+    background: -o-linear-gradient(bottom, rgba(0,0,0,.6), rgba(10,10,10,.6));
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,.6), rgba(10,10,10,.6));
+    background: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(10,10,10,.6));
+}
+.summary-content-title h1,.summary-content-title h1 a  {
+	color: white;
+}
+.summary-content-title h1 a:hover {
+	color: #f9be03;
+}
+.summary-content {
+	color: #d7d7d7;
+}
+.table-card-back{
+	background-color: transparent
+}
+.table-card-header{
+	background-color: transparent;
+	border: none;
+}
+.badge{
+	background-color: rgba(255,255,255,.25);
+}
+table.display thead th, table.display thead tr:hover  {
+	background-color: rgba(255,255,255,.2);
+	color: white;
+}
+tr.even {
+	background-color: rgba(255,255,255,.1);
+}
+table.display tbody tr:hover {
+	background-color: rgba(255,255,255,.15);
+}
+.current-activity-row {
+	background-color: rgba(0,0,0,.33) !important;
+}
+.stacked-configs > li {
+	background-color: transparent;
+	border-top: 1px solid rgba(120,130,140,.13);
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(120, 130, 140, .13);
+}
+.stacked-configs > li > span {
+	border:none;
+}
+.stacked-configs > li > span:hover,.stacked-configs > li > span:focus  {
+	background-color: rgba(255,255,255,.08);
+}
+.stacked-configs > li > span > a.toggle-left, .stacked-configs > li > span > span.toggle-left , .stacked-configs > li > span > a.toggle-right, .stacked-configs > li > span > span.toggle-right{
+	color: #d7d7d7;
+}
+.stacked-configs > li > span > span.active  {
+	color: #f9be03;
+}
+.table.display {
+	background-color: rgba(0,0,0,.3);
+}
+.graphs-instance{
+	background-color: transparent;
+}
+#search_form #search_button.btn-inactive, #search_form #search_button.btn-active{
+	background: transparent;
+	border: none;
+	margin-left: 0px;
+}
+div.dataTables_filter input {
+	margin-left:0px;
+}
+.btn-dark,.btn-danger.btn-edit {
+	background-color: rgba(255,255,255,.08);
+}
+
+.btn-form {
+	background-color: rgba(255,255,255,.25);
+}
+
+.btn-dark:active, .btn-dark:focus, .btn-dark.focus, .btn-dark.active, .btn-dark:hover, .btn-dark.hover,.btn-dark:active:hover, .btn-dark.active:hover, .btn-dark:active:focus,.btn-dark.active:focus,.btn-dark.active, .open > .dropdown-toggle.btn-dark, .open > .dropdown-toggle.btn-dark:focus,.btn-dark:active.focus,.btn-dark.active.focus, .open > .dropdown-toggle.btn-dark:hover, .open > .dropdown-toggle.btn-dark.focus {
+	background-color: rgba(255,255,255,.25);
+	border-color: rgba(255,255,255,.25);
+}
+
+.btn-form:active, .btn-form:focus, .btn-form:hover, .btn-form.active, .btn-form.focus {
+	background-color: rgba(255,255,255,.4);
+	border-color: rgba(255,255,255,.4);
+}
+
+.btn-dark.inactive, .btn-form.inactive, .btn-dark.inactive:hover, .btn-form.inactive:hover, .btn-dark.disabled,
+.btn-dark[disabled],
+fieldset[disabled] .btn-dark,
+.btn-dark.disabled:hover,
+.btn-dark[disabled]:hover,
+fieldset[disabled] .btn-dark:hover,
+.btn-dark.disabled:focus,
+.btn-dark[disabled]:focus,
+fieldset[disabled] .btn-dark:focus,
+.btn-dark.disabled.focus,
+.btn-dark[disabled].focus,
+fieldset[disabled] .btn-dark.focus,
+.btn-dark.disabled:active,
+.btn-dark[disabled]:active,
+fieldset[disabled] .btn-dark:active,
+.btn-dark.disabled.active,
+.btn-dark[disabled].active,
+fieldset[disabled] .btn-dark.active{
+	background-color: rgba(0,0,0,.3);
+	color: #aaa;
+	border: transparent;
+}
+.pagination > .disabled > span, .pagination > .disabled > span:hover, .pagination > .disabled > span:focus, .pagination > .disabled > a, .pagination > .disabled > a:hover, .pagination > .disabled > a:focus {
+	background-color: rgba(0,0,0,.3);
+	color: #aaa;
+	border: none;
+}
+.input-group-btn:last-child > .btn {
+	margin-left:auto;
+}
+.pagination > li > a, .pagination > li > span {
+	background-color: rgba(255,255,255,.08);
+	color: #d7d7d7;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	background-color: rgba(255,255,255,.25);
+	border-color: rgba(255,255,255,.25);
+	color: #d7d7d7;
+}
+select.form-control, div.form-control .selectize-input, select, .react-selectize.bootstrap3.root-node .react-selectize-control{
+	background-color: rgba(255,255,255,.08) !important;
+}
+.react-selectize.root-node .simple-value, .selectize-control.multi .selectize-input > div {
+	background-color: rgba(255,255,255,.25) !important;
+}
+.inline-pre{
+	background-color: rgba(255,255,255,.25);
+}
+.form-control[readonly], .react-selectize.root-node .react-selectize-control, .selectize-control.form-control .selectize-input {
+	background-color: rgba(255,255,255,.08) !important;
+}
+textarea, textarea.form-control, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input{
+	background-color: rgba(255,255,255,.08);
+}
+.overlay-refresh-image.info-art{
+	color: #d7d7d7;
+}
+.close{
+	color: #d7d7d7;
+}
+.close:hover,.close:focus{
+	color:white;
+}
+.modal-content {
+	background-image: url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png"), url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-dark.png");
+	background-repeat: repeat, no-repeat;
+	background-attachment: fixed, fixed;
+	background-position: center center, center center;
+	background-size: auto, cover;
+	-webkit-background-size: auto, cover;
+	-moz-background-size: auto, cover;
+	-o-background-size: auto, cover;
+	background-color: rgba(0,0,0,.0);
+	color:#d7d7d7;
+}
+.modal-footer,.modal-body,.modal-header{
+	background-color: transparent;
+	border-top:none;
+	border-bottom:none;
+}
+.modal-body li, #notifier-config-modal .nav-tabs > li > a, #newsletter-config-modal .nav-tabs > li > a {
+	color: #d7d7d7;
+}
+#notifier-config-modal .nav-tabs > li > a:hover,#newsletter-config-modal .nav-tabs > li > a:hover,#notifier-config-modal .nav-tabs > li.active > a, #notifier-config-modal .nav-tabs > li.active > a:hover, #notifier-config-modal .nav-tabs > li.active > a:focus, #newsletter-config-modal .nav-tabs > li.active > a, #newsletter-config-modal .nav-tabs > li.active > a:hover, #newsletter-config-modal .nav-tabs > li.active > a:focus {
+	background-color: rgba(255,255,255,.08);
+}
+.accordion, .accordion li .link i.fa,.accordion li .link:hover i.fa{
+	background-color:transparent;
+}
+.accordion li .link, .accordion li .link i.fa  {
+	color: #d7d7d7;
+}
+.accordion li .link:focus, .accordion li .link:hover, .accordion li.open .link {
+	background-color:rgba(255,255,255,.08);
+}
+.submenu li, .accordion li .link{
+	border:none;
+}
+.submenu{
+	background-color:rgba(255,255,255,.08);
+}
+.overlay-refresh-image {
+	color: #d7d7d7;
+	text-shadow: -1px -1px 0 rgba(0,0,0,.7), 1px -1px 0 rgba(0,0,0,.7), -1px 1px 0 rgba(0,0,0,.7), 1px 1px 0 rgba(0,0,0,.7);
+}
+.overlay-refresh-image.info-art:hover {
+    color: #f9be03;
+}
+a:hover .overlay-refresh-image {
+    opacity:.8;
+    top: 8px;
+}
+a:hover .overlay-refresh-image:hover {
+    opacity:1
+}
+@media only screen and (max-width: 763px){
+	.body-container{
+		background-image: url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png"), url(""https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-light.png");
+		background-repeat: repeat, no-repeat; 
+		background-attachment: fixed, fixed;
+		background-position: center center, center center;
+		background-size: auto, cover;
+		-webkit-background-size: auto, cover;
+		-moz-background-size: auto, cover;
+		-o-background-size: auto, cover;
+		background-color: rgba(0,0,0,.0);
+		color:#d7d7d7;
+	}
+	.navbar {
+		background: none;
+		background-color: rgba(0,0,0,.91);
+	}
+	.navbar-collapse{
+		background: rgba(0,0,0,.91);
+	}
+}
