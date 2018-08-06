@@ -355,7 +355,7 @@ a:hover .overlay-refresh-image {
 a:hover .overlay-refresh-image:hover {
     opacity:1
 }
-@media only screen and (max-width: 763px){
+@media only screen and (max-width: 767px){
 	.body-container{
 		background-image: url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png"), url("https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-light.png");
 		background-repeat: repeat, no-repeat; 
