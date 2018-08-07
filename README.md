@@ -1,4 +1,4 @@
-# Cloud-Tautulli-Theme
+# Cloud Theme
 
 <h2>Cloud CSS for Tautulli</h2>
 Credits to <a href="https://github.com/Archmonger">Groot</a>, <a href="https://github.com/Burry">Please Clap</a>, and <a href="https://github.com/leram84"> Leram</a> whose work was the base and inspiration for this. 
