@@ -21,7 +21,7 @@ If you send email notifications via Tautulli, you can adapt this email theme. Wi
 3. Go to Tautulli > Settings > Newsletter Agents. In `Saving and Sending` make sure `Send Newsletter as an HTML Formatted Email` is `OFF` and make sure you have an Email Notification Agent set up. If you are using Static URL, make sure you also go to `Configuration` and set a `Unique ID Name`. Now go to `Newsletter Text`.
 4. Finally, dump the file contents from your text editor in `Body` (not `Message`). You can use `Recently Added to {server_name}! ({end_date})` for `Subject`. Save, and you should be set to go.
 
-If you want to use the same theme for Organizr, go into other email templates and save `CloudOrganizr.php`
+If you want to use the same theme for Organizr, go into `Other Email Templates` and save `CloudOrganizr.php`
 1. Change Organizr values to your domain if you want (in header and footer). The rest is handled inside Organizr itself
 2. Drop the file in `organizrDirectory/api/plugins/misc/emailTemplates`
 3. Log into Organizr and go to Settings > Plugins > PHP Mailer > Test and Options. Make sure Theme is selected as `CloudOrganizr` and give the URL to any custom logo in `WAN Logo URL` as well as your domain URL in `Domain Link Override`. Save, and you should be set to go. Be aware that any header tags (`<h1>`) in your email templates may not work with this template. You will have to modify the code or remove them.
