@@ -13,7 +13,7 @@ Tautulli doesn't give you an easy way to add custom css, so you will need to ins
 			sub_filter_once on;
  ```
 
-<img src="//rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS1.png"></img>
-<img src="//rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS2.png"></img>
-<img src="//rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS3.png"></img>
-<img src="//rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS4.png"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS1.png"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS2.png"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS3.png"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS4.png"></img>
