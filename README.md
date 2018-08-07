@@ -60,9 +60,10 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
 
 1. Download `CloudTauNewsletter.html`
 2. Change Newsletter Logo (line `563`) with your custom logo if you want.
-3. If you want to display the Media Server name variable from Tau (in case you don't have a logo with the name already in it), add 
-`<div class="server-name" style="font-size: 30px;text-align: center;">${parameters['server_name']}</div>` 
-between lines `564` and `565`
+3. If you want to display the Media Server name variable from Tau (in case you don't have a logo with the name already in it), add the below between lines `564` and `565`
+```html
+<div class="server-name" style="font-size: 30px;text-align: center;">${parameters['server_name']}</div>
+``` 
 4. Follow these instructions to add custom newsletters to Tau: https://github.com/Tautulli/Tautulli-Wiki/wiki/Frequently-Asked-Questions#newsletter-custom-template
 
  ### Screenshots
