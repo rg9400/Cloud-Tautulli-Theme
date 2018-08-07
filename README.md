@@ -33,7 +33,7 @@ If you send email notifications via Tautulli, you can adapt this email theme. Wi
 3. Go to Tautulli > Settings > Newsletter Agents. In `Saving and Sending` make sure `Send Newsletter as an HTML Formatted Email` is `OFF` and make sure you have an Email Notification Agent set up. If you are using Static URL, make sure you also go to `Configuration` and set a `Unique ID Name`. Now go to `Newsletter Text`.
 4. Finally, dump the file contents from your text editor in `Body` (not `Message`). You can use `Recently Added to {server_name}! ({end_date})` for `Subject`. Save, and you should be set to go.
 
- ### Screenshots
+<h4>Screenshots</h4>
 <details><summary>Expand</summary>
 <p>
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauEmailSS.PNG"></img>
