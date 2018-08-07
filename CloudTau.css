@@ -286,8 +286,11 @@ select.form-control, div.form-control .selectize-input, select, .react-selectize
 	background-color: rgba(255,255,255,.25) !important;
 }
 select option {
-	background-color: black !important;
-    }
+	background-color: black;
+}
+select#tautulli-log-level-filter.btn {
+     margin-top: 4px;   
+}
 .inline-pre{
 	background-color: rgba(255,255,255,.25);
 }
