@@ -35,6 +35,7 @@ between lines `564` and `565`
 <h2>Screenshots</h2>
 
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauEmailSS.PNG"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauNewsletterSS.png"></img>
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS1.png"></img>
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS2.png"></img>
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS3.png"></img>
