@@ -24,9 +24,12 @@ I have adapted the same email theme for Organizr and Ombi, and I will upload tho
 4. Finally, dump the file contents from your text editor in `Body` (not `Message`). You can use `Recently Added to {server_name}! ({end_date})` for `Subject`. Save, and you should be set to go.
 	
 <h2>Cloud Newsletter for Tautulli</h2>
+
 1. Download CloudTauNewsletter.html
 2. Change Newsletter Logo (line `563`) with your custom logo if you want.
-3. If you want to display the Media Server name variable from Tau (in case you don't have a logo with the name already in it), add `<div class="server-name" style="font-size: 30px;text-align: center;">${parameters['server_name']}</div>` between lines `564` and `565`
+3. If you want to display the Media Server name variable from Tau (in case you don't have a logo with the name already in it), add 
+`<div class="server-name" style="font-size: 30px;text-align: center;">${parameters['server_name']}</div>` 
+between lines `564` and `565`
 4. Follow these instructions to add custom newsletters to Tau: https://github.com/Tautulli/Tautulli-Wiki/wiki/Frequently-Asked-Questions#newsletter-custom-template
 
 <h2>Screenshots</h2>
