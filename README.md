@@ -36,7 +36,7 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
 1. Change header and footer if you want. You will need to add the URL of your domain as the link to the logo (line `147`). The logo itself is handled in Ombi
 2. Copy this file and rename the 2 files so that one is named `Backup.html` and the other is named `BasicTemplate.html`
 3. Drop both of thesefiles in `ombiDirectory/Templates`, including overwriting the preexisting `BasicTemplate.html`
-4. Go into Ombi, 
+4. Go into Ombi,Settings > Configuration. Make sure `Custom Logo` is set to your logo if you want, or else it will use the Ombi logo.
 5. After any update, Ombi will overwrite `BasicTemplate.html` to source until the Email Theme feature is added. You just need to delete this new version, copy `Backup.html` and rename it to `BasicTemplate.html`. 
 	
 <h2>Cloud Newsletter for Tautulli</h2>
