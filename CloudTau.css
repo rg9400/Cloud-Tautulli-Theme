@@ -285,6 +285,9 @@ select.form-control, div.form-control .selectize-input, select, .react-selectize
 .react-selectize.root-node .simple-value, .selectize-control.multi .selectize-input > div {
 	background-color: rgba(255,255,255,.25) !important;
 }
+select option {
+	background-color: rgba(0,0,0,.7) !important;
+    }
 .inline-pre{
 	background-color: rgba(255,255,255,.25);
 }
