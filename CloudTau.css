@@ -10,6 +10,10 @@ body{
 	background-color: rgba(0,0,0,.0);
 	color:#d7d7d7;
 }
+html {
+	min-height: 100%;
+	height: auto;	
+}
 a:focus, a:hover {
 	color: #f9be03;
 }
@@ -362,22 +366,6 @@ a:hover .overlay-refresh-image:hover {
     opacity:1
 }
 @media only screen and (max-width: 767px){
-	.body-container{
-		background-image: url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png"), url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-light.png");
-		background-repeat: repeat, no-repeat; 
-		background-attachment: fixed, fixed;
-		background-position: center center, center center;
-		background-size: auto, cover;
-		-webkit-background-size: auto, cover;
-		-moz-background-size: auto, cover;
-		-o-background-size: auto, cover;
-		background-color: rgba(0,0,0,.0);
-		color:#d7d7d7;
-	}
-	.navbar {
-		background: none;
-		background-color: rgba(0,0,0,.91);
-	}
 	.navbar-collapse{
 		background: rgba(0,0,0,.91);
 	}
