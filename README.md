@@ -47,13 +47,6 @@ If you want to use the same theme for Organizr, go into `Other Email Templates` 
 2. Drop the file in `organizrDirectory/api/plugins/misc/emailTemplates`
 3. Log into Organizr and go to Settings > Plugins > PHP Mailer > Test and Options. Make sure Theme is selected as `CloudOrganizr` and give the URL to any custom logo in `WAN Logo URL` as well as your domain URL in `Domain Link Override`. Save, and you should be set to go. Be aware that any header tags (`<h1>`) in your email templates may not work with this template. You will have to modify the code or remove them.
 
-<h4>Screenshots</h4>
-<details><summary>Expand</summary>
-<p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudOmbiEmail.png"></img>
-</p>
-</details>
-
 <h3>Ombi</h3>
 
 If you want to use the same theme for Ombi, go into `Other Email Templates` and save `CloudOmbi.html`. Unfortunately, like Tau, Ombi does not currently have native support for email themes, so you will have to overwrite the email html after every update for now.
@@ -62,6 +55,13 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
 3. Drop both of thesefiles in `ombiDirectory/Templates`, including overwriting the preexisting `BasicTemplate.html`
 4. Go into Ombi,Settings > Configuration. Make sure `Custom Logo` is set to your logo if you want, or else it will use the Ombi logo.
 5. After any update, Ombi will overwrite `BasicTemplate.html` to source until the Email Theme feature is added. You just need to delete this new version, copy `Backup.html` and rename it to `BasicTemplate.html`. 
+
+<h4>Screenshots</h4>
+<details><summary>Expand</summary>
+<p>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudOmbiEmail.png"></img>
+</p>
+</details>
 	
 <h2>Cloud Newsletter for Tautulli</h2>
 
