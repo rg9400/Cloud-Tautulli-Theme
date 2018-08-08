@@ -182,7 +182,7 @@ $email = '
     </style>
 </head>
 <body class="" style="font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0;">
-<table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background:url(https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png) center center fixed,url(https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-light.png) center center/cover no-repeat fixed!important;height:100%;width:100%; border-radius: 3px;" width="100%">
+<table border="0" table align="center" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background:url(https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png) center center fixed,url(https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-light.png) center center/cover no-repeat fixed!important;height:100%;width:30%; border-radius: 3px;" width="100%">
     <tr>
         <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;" valign="top">&nbsp;</td>
         <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto !important; max-width: 580px; padding: 10px; width: 580px;" width="580" valign="top">
@@ -213,7 +213,12 @@ $email = '
                                         <p style="font-family: Open Sans Semibold,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 16px; font-weight: normal; text-align: center; margin: 10px; color: #e5a00d; margin-top: 15px; Margin-bottom: 15px;">' . $body . '</p>
 
                                     </td>
-									' . $button . '
+				' . $button . '
+				<tr>
+					<td class="wrapper" style="font-family: 'Open Sans', Helvetica, Arial, sans-serif;font-size: 14px;vertical-align: top;box-sizing: border-box;padding: 5px;overflow: auto;">
+						<div class="sub-header-bar" style="margin-left: auto;margin-right: auto;font-size: 30px;text-align: center;width: 200px;border-top: 1px solid #E5A00D;margin-top: 15px;margin-bottom: 25px;"></div>
+					</td>
+				</tr>					
                             </table>
                         </td>
                     </tr>
