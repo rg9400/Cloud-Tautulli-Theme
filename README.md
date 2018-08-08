@@ -36,7 +36,7 @@ If you send email notifications via Tautulli, you can adapt this email theme. Wi
 <h4>Screenshots</h4>
 <details><summary>Expand</summary>
 <p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauEmailSS.PNG"></img>
+<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauEmail.png"></img>
 </p>
 </details>
 
