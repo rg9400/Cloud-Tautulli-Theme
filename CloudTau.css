@@ -1,5 +1,5 @@
 body{
-	background-image: url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png"), url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-light.png");
+	background-image: url("https://cdn.rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png"), url("https://cdn.rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-light.png");
 	background-repeat: repeat, no-repeat; 
 	background-attachment: fixed, fixed;
 	background-position: center center, center center;
@@ -314,7 +314,7 @@ textarea, textarea.form-control, input[type="text"], input[type="password"], inp
 	color:white;
 }
 .modal-content {
-	background-image: url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png"), url("https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-dark.png");
+	background-image: url("https://cdn.rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-noise.png"), url("https://cdn.rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Background/blur-dark.png");
 	background-repeat: repeat, no-repeat;
 	background-attachment: fixed, fixed;
 	background-position: center center, center center;
@@ -370,3 +370,12 @@ a:hover .overlay-refresh-image:hover {
 		background: rgba(0,0,0,.91);
 	}
 }
+.stream-info{
+	background-color:transparent;
+}
+.stream-info .heading{
+	color:white;
+}
+.stream-info td:first-child{
+	color:#d7d7d7;
+}	
