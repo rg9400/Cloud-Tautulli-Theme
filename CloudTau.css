@@ -182,9 +182,11 @@ ul.ColVis_collection {
 .badge{
 	background-color: rgba(255,255,255,.25);
 }
-table.display thead th, table.display thead tr:hover  {
-	background-color: rgba(255,255,255,.2);
-	color: white;
+table.display thead th{
+	background-color:rgba(0,0,0,.3) !important;   
+    }
+table.display thead tr:hover{
+	background-color:transparent !important;
 }
 tr.even {
 	background-color: rgba(255,255,255,.1);
