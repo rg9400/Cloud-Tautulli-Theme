@@ -184,10 +184,11 @@ ul.ColVis_collection {
 }
 table.display thead th{
 	background-color:rgba(0,0,0,.2);
-	color:white;
+	color:#d7d7d7;
     }
 table.display thead tr:hover{
 	background-color:transparent;
+	color:white;
 }
 tr.even {
 	background-color: rgba(255,255,255,.1);
