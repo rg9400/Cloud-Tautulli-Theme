@@ -17,10 +17,10 @@ Tautulli doesn't give you an easy way to add custom css, so you will need to ins
  ### Screenshots
 <details><summary>Expand</summary>
 <p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS1.png"></img>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS2.png"></img>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS3.png"></img>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS4.png"></img>
+<img src="/Screenshots/CloudTauSS1.png"></img>
+<img src="/Screenshots/CloudTauSS2.png"></img>
+<img src="/Screenshots/CloudTauSS3.png"></img>
+<img src="/Screenshots/CloudTauSS4.png"></img>
 </p>
 </details>
 
@@ -40,7 +40,7 @@ If you send email notifications via Tautulli, you can adapt this email theme. Wi
 <h4>Screenshots</h4>
 <details><summary>Expand</summary>
 <p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauEmail.png"></img>
+<img src="/Screenshots/CloudTauEmail.png"></img>
 </p>
 </details>
 
@@ -63,7 +63,7 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
 <h4>Screenshots</h4>
 <details><summary>Expand</summary>
 <p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudOmbiEmail.png"></img>
+<img src="/Screenshots/CloudOmbiEmail.png"></img>
 </p>
 </details>
 	
@@ -80,7 +80,7 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
  ### Screenshots
 <details><summary>Expand</summary>
 <p>
-<img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauNewsletterSS.png"></img>
+<img src="/Screenshots/CloudTauNewsletterSS.png"></img>
 </p>
 </details>
 
