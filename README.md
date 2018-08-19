@@ -13,6 +13,7 @@ Tautulli doesn't give you an easy way to add custom css, so you will need to ins
 			</head>';
 			sub_filter_once on;
  ```
+ 
  ### Screenshots
 <details><summary>Expand</summary>
 <p>
@@ -22,6 +23,9 @@ Tautulli doesn't give you an easy way to add custom css, so you will need to ins
 <img src="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/Screenshots/CloudTauSS4.png"></img>
 </p>
 </details>
+
+ ## Cloud CSS for Sonarr/Radarr
+ Please check <a href="https://github.com/rg9400/Cloud-Radarr-Sonarr-Theme">here</a>
 
 <h2>Cloud Email Theme</h2>
 
