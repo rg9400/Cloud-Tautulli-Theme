@@ -342,6 +342,7 @@ textarea, textarea.form-control, input[type="text"], input[type="password"], inp
 }
 #notifier-config-modal .nav-tabs > li > a:hover,#newsletter-config-modal .nav-tabs > li > a:hover,#notifier-config-modal .nav-tabs > li.active > a, #notifier-config-modal .nav-tabs > li.active > a:hover, #notifier-config-modal .nav-tabs > li.active > a:focus, #newsletter-config-modal .nav-tabs > li.active > a, #newsletter-config-modal .nav-tabs > li.active > a:hover, #newsletter-config-modal .nav-tabs > li.active > a:focus {
 	background-color: rgba(255,255,255,.08);
+	border-color: transparent;
 }
 .accordion, .accordion li .link i.fa,.accordion li .link:hover i.fa{
 	background-color:transparent;
