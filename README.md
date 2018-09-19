@@ -63,7 +63,7 @@ If you want to use the same theme for Ombi, go into `Other Email Templates` and 
 <h4>Screenshots</h4>
 <details><summary>Expand</summary>
 <p>
-<img src="/Screenshots/CloudOmbiEmail.png"></img>
+<img src="/Screenshots/CloudOmbiEmail1.png"></img>
 </p>
 </details>
 	
