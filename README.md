@@ -9,7 +9,7 @@ Tautulli doesn't give you an easy way to add custom css, so you will need to ins
 			proxy_set_header Accept-Encoding "";
 			sub_filter
 			'</head>'
-			'<link rel="stylesheet" type="text/css" href="https://rawgit.com/rg9400/Cloud-Tautulli-Theme/master/CloudTau.css">
+			'<link rel="stylesheet" type="text/css" href="https://rg9400.github.io/CloudThemes/CloudTau.css">
 			</head>';
 			sub_filter_once on;
  ```
