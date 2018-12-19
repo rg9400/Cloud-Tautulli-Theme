@@ -1,7 +1,7 @@
 # Cloud Theme
 
 <h2>Cloud CSS for Tautulli</h2>
-Credits to <a href="https://github.com/Archmonger">Groot</a>, <a href="https://github.com/Burry">Please Clap</a>, and <a href="https://github.com/leram84"> Leram</a> whose work was the base and inspiration for this. 
+I strongly suggest you use https://github.com/rg9400/CloudThemes going forward as that is the most up to date repo. Setup instructions do link to that repo now. 
 
 Tautulli doesn't give you an easy way to add custom css, so you will need to insert it with your reverse proxy. The below is an example that you can inside your NGINX Tau location block to insert the CSS when accessing via your domain (not locally). You need the subfilter module for it to work. If you don't use nginx or don't have that module, I don't know enough to help out.
 
