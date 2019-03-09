@@ -1,5 +1,7 @@
 # Cloud Theme
 
+** This is no longer maintained
+
 <h2>Cloud CSS for Tautulli</h2>
 I strongly suggest you use https://github.com/rg9400/CloudThemes going forward as that is the most up to date repo. Setup instructions do link to that repo now. 
 
